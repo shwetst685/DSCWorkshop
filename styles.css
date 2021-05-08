@@ -1,0 +1,38 @@
+body{
+    background-color: #090B1A;
+}
+#card-image{
+    filter: invert(0%) sepia(10%) saturate(5800%) hue-rotate(246deg) brightness(60%) contrast(85%);
+
+    padding:0%;
+}
+
+#card-text{
+    padding:0% 1.5rem 1.5rem 2rem;
+    background-color: #1b1938;
+    color:whitesmoke;
+}
+
+footer{
+    color:rgb(153, 144, 153);
+    margin-top:2rem;
+    text-align:end;
+}
+h2{
+    margin-top:3rem;
+    text-align:center;
+
+}
+
+p{
+    margin-top:2rem;
+    text-align: center;
+}
+
+span{
+    color:#7a0da5;
+}
+
+strong{
+    font-size:1.3rem;
+}
